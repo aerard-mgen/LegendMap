@@ -7,7 +7,7 @@
     "version": "1.0.0",
     "description": "Ce visuel permet d'ajouter une légende sur une MAP Choropleth",
     "supportUrl": "http://community.powerbi.com",
-    "gitHubUrl": "https://github.com/aerard-mgen/Legend-Map"
+    "gitHubUrl": "https://github.com/aerard-mgen/LegendMap"
   },
   "apiVersion": "2.3.0",
   "author": {
