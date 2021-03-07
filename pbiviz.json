@@ -5,7 +5,7 @@
     "guid": "LegendMap20210307135200",
     "visualClassName": "LegendMap",
     "version": "1.0.0",
-    "description": "Ce visuel permet d'ajouter une légende sur une MAP Choropleth",
+    "description": "This visual allows you to add a caption on a MAP Choropleth",
     "supportUrl": "http://community.powerbi.com",
     "gitHubUrl": "https://github.com/aerard-mgen/LegendMap"
   },

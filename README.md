@@ -4,4 +4,4 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 
 # Overview
-Utilisez ce visuel si vous souhaitez ajouter une légende à une carte Choropleth. Ce visuel est basé sur le visuel Table HeatMap qui a été simplifié pour en extraire uniquement la légende.
+Use this visual if you want to add a legend to a Choropleth map. This visual is based on the Table HeatMap visual which has been simplified to extract only the legend.
