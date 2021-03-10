@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ContentApp">
+  <Id>17B49430-7FE9-11EB-A35C-F9569627A262</Id>
+  <Version>1.0.0.0</Version>
+  <ProviderName>Mgen PBI</ProviderName>
+  <DefaultLocale>fr-FR</DefaultLocale>
+  <DisplayName DefaultValue="Legend Map 1.0.0"/>
+  <Description DefaultValue="Ce visuel vous permet d'afficher une légende sur les cartes de type Choropleth"/>
+  <IconUrl DefaultValue="https://visuals.azureedge.net/app-store/PowerBI_icon32x32.png"/>
+  <SupportUrl DefaultValue="https://github.com/aerard-mgen/LegendMap/issues"/>
+  <Hosts>
+    <Host Name="PowerBI"/>
+  </Hosts>
+  <Requirements>
+    <Sets>
+      <Set Name="DataAnalytics.PowerBI" MinVersion="1.1"/>
+    </Sets>
+  </Requirements>
+  <DefaultSettings>
+    <SourceLocation DefaultValue="https://appsource.powerbi.com/LegendMap.LegendMap20210307135200.1.0.0.0.pbiviz"/>
+    <RequestedWidth>100</RequestedWidth>
+    <RequestedHeight>100</RequestedHeight>
+  </DefaultSettings>
+  <Permissions>ReadWriteDocument</Permissions>
+</OfficeApp>
